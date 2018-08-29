@@ -45,4 +45,4 @@ print("det tog ",y, "looopar")
 print ("Första loopen tog ",y,"rundor.\nAndra loopen tog ",z,"rundor.\nTredje loopen tog ",p,"rundor.\nTillsammans blir det ",y+z+p, "loopar")
 
 
-#THIS IS JUST A TEST STRING
+#THIS IS JUST A TEST STRING iuiihjihuitsteser6i
