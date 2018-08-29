@@ -15,10 +15,9 @@ rand3 = 0
 randtest = 0
 i = 0
 
-while random.randrange(start,stopp) !=20 randtest=randtest+1:
+while random.randrange(start,stopp) !=20:
     print(randtest)
 
-'''
 
 for r in range (q,w):
     rand3 = random.randrange(start,stopp)
@@ -44,7 +43,6 @@ while x==0:
 print("det tog ",y, "looopar")
 
 print ("Första loopen tog ",y,"rundor.\nAndra loopen tog ",z,"rundor.\nTredje loopen tog ",p,"rundor.\nTillsammans blir det ",y+z+p, "loopar")
-'''
 
 
 #THIS IS JUST A TEST STRING
